@@ -1,0 +1,13 @@
+Name,Age,Gender,Depertment,Salary,Country
+John,25,Male,Engineering,50000,USA  
+Alice,30,Female,HR,60000,Canada  
+Bob,28,Male,IT,55000,UK  
+Eve,35,Female,,70000,Australia  
+Charlie,40,Male,IT,75000,India  
+David,32,Male,Marketing,62000,Germany  
+Sophia,29,Female,IT,,France  
+Liam,,Male,Sales,48000,USA  
+Olivia,33,Female,IT,67000,Canada
+John,25,Male,Engineering,50000,USA  
+Alice,30,Female,HR,60000,Canada
+
